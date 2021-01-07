@@ -14,3 +14,5 @@ run by
 ```python
 python main.py --IPFILE "INPUT FILE CAN BE PDF OR ANY IMAGE FORMAT" --OPFILE "NAME OF OUTPUTFILE"
 ```
+
+### conversion from pdf is working fine but from image last rows get some random letter detected
