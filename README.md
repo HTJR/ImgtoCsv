@@ -9,3 +9,8 @@ path=r"poppler-20.12.1\Library\bin"
 ```python
 pytesseract.pytesseract.tesseract_cmd = r'D:\tess\tesseract'
 ```
+
+run by 
+```python
+python main.py --IPFILE "INPUT FILE CAN BE PDF OR ANY IMAGE FORMAT" --OPFILE "NAME OF OUTPUTFILE"
+```
